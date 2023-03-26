@@ -1,4 +1,4 @@
-# LEC011001-Relais-Temporise-10min
+# LEC011001-Relais-Temporise-3min30
 Fichiers sources pour le produit LEC011001
 
 ## Description du produit
